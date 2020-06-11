@@ -6,5 +6,5 @@ XavHunt is an Augmented Reality Game set in St. Xavier's College, Mumbai. Every 
 ## Environment
 XavHunt is made using Unity 3d. Using AR core and Vuforia technology.
 
-### Prerequisites
+#### Prerequisites
 Set up AR core SDK [Google AR](https://github.com/google-ar/arcore-unity-sdk/releases).
