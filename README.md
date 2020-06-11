@@ -13,6 +13,7 @@ XavHunt is made using Unity 3d. Using AR core and Vuforia technology.
 - To set up AR core SDK, go to [Google AR](https://github.com/google-ar/arcore-unity-sdk/releases).
 
 ## Video
+**Click to Play the video.**
 [![Video](https://github.com/prasoon-anand/XavHunt/blob/master/Screenshots/vs.png)](https://www.youtube.com/watch?v=RpDDAO6xi7U)
 
 ## Screenshots
